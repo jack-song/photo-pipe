@@ -9,4 +9,7 @@ Move photos off SD cards automatically when plugged in on Mac OS.
 6. Copy in the contents of `photo-pipe.sh`
 7. Done!
 
+<img width="1118" alt="image" src="https://user-images.githubusercontent.com/6496202/230147438-9e24e916-0871-46ed-abe9-bfa334b0f603.png">
+
+
 https://www.buymeacoffee.com/jksg
